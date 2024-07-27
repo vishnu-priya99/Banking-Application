@@ -1,1 +1,1 @@
-banking-application
+bankingapplication.github.io
